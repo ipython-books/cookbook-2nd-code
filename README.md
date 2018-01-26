@@ -6,7 +6,13 @@ This repository contains the Jupyter notebooks of the 100+ recipes of [*IPython 
 
 This repository is read-only: the source files are on the [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) repository.
 
-## Getting started
+
+## Running the code in the cloud
+
+With [Binder](https://mybinder.org/), you can run most of the Jupyter notebooks directly from your web browser without installing anything. Just click on the `launch binder` button above. A temporary Jupyter Notebook server with all dependencies will be automatically launched in the cloud. It is not persistent: all your changes will be lost after some time.
+
+
+## Running the code on your computer
 
 1. [**Install** git](https://git-scm.com/downloads).
 
