@@ -20,6 +20,7 @@ With [Binder](https://mybinder.org/), you can run most of the Jupyter notebooks 
 
 3. **Open** a terminal (`cmd` on Windows).
 
+
 4. **Clone** the repository:
 
 ```bash
